@@ -46,7 +46,7 @@ Lets start with the System Configuration.
 
 * * _[Click here](https://www.youtube.com/watch?v=xdwO2MCtff0&t=1s) to check out a video by **YusTech Gaming** on creating a **Bootable USB** if you get confused._
 * * _[Click here](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/) to check out detailed USB Creation Guide by **Dortania**._
-* * _**Prerequisite Download** : [Drive Link](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/) for **Catalina Installation File** and various other **Utilities**._
+* * _**Prerequisite Download** : [Drive Link](https://drive.google.com/drive/folders/1vQqY8Y9yOE6oD-broLZJ9kY_C7lwiJwf) for **Catalina Installation File** and various other **Utilities**._
 * * _Do not use the EFI config from the **Drive Link** above as it will be harder to boot into **Big Sur** later_
  * Download and Install TransMac from the Drive Link or [Click Here](https://transmac.en.uptodown.com/windows).
  * Run TransMac as an admin after installing.
