@@ -20,7 +20,9 @@ Lets start with the System Configuration.
 * Realtek ALC236 Audio Controller
 * Synaptics Precision Trackpad -> ELAN061B  
 
-![BigSurConfig](https://drive.google.com/file/d/1QlVHHVRD5jqEgnQjl7RGmKkL5jkaJ27H/view?usp=sharing)
+![Windows10Config](https://i.ibb.co/kqFQC2q/Screenshot-8.png)  
+
+![BigSurConfig](https://i.ibb.co/x1wDTRk/Screenshot-2021-04-27-at-7-56-34-PM.png)
 ## Guide 
 
 1. **BIOS** 
@@ -80,7 +82,11 @@ Lets start with the System Configuration.
 * Complete the setup to enter into macOS Catalina.
 * **Congrats !** we have booted into a succesful Hackintosh, if you feel comfortable with Catalina please directly proceed to **5. Post-Installation**.
 
-4. **Upgrading macOS Catalina to macOS Big Sur**
+![CatalinaConfig](https://i.ibb.co/DDvKKxB/Screenshot-2021-04-27-at-8-13-36-AM.png)
+
+4. **Upgrading macOS Catalina to macOS Big Sur**  
+
+![BigSurUpdate](https://i.ibb.co/fnttvjz/Screenshot-2021-04-27-at-8-15-03-AM.png)
 * Once booted into macOS Catalina, open Settings and go to Update.
 * Disable Beta Updates and download the latest version of macOS Big Sur.
 * Once the update downloads, run the update and it will restart after sometime.
@@ -102,4 +108,6 @@ Lets start with the System Configuration.
 * Download and Run [MountEFI](https://github.com/corpnewt/MountEFI)
 * Select the partition or drive in which macOS Big Sur/Catalina is installed and mount the EFI. 
 * Once the EFI is mounted copy the contents of EFI from the repository and paste it into the mounted EFI.
-* Yay! Hopefully everything has been correctly installed :') 
+* Yay! Hopefully everything has been correctly installed :')  
+
+![BigSurTerminal](https://i.ibb.co/4FPrsDv/Screenshot-2021-04-27-at-7-58-24-PM.png)
