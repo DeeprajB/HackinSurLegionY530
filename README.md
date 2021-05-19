@@ -22,7 +22,7 @@ Lets start with the System Configuration.
 
 ![Windows10Config](https://i.ibb.co/kqFQC2q/Screenshot-8.png)  
 
-![BigSurConfig](https://i.ibb.co/x1wDTRk/Screenshot-2021-04-27-at-7-56-34-PM.png)
+![BigSurConfig](https://i.ibb.co/TW4RND8/Screenshot-2021-05-19-at-3-49-33-PM.png)
 ## Guide 
 
 1. **BIOS** 
