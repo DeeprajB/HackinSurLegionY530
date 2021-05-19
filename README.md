@@ -111,3 +111,13 @@ Lets start with the System Configuration.
 * Yay! Hopefully everything has been correctly installed :')  
 
 ![BigSurTerminal](https://i.ibb.co/4FPrsDv/Screenshot-2021-04-27-at-7-58-24-PM.png)
+
+## **Performance Difference b/w Windows and Hackintosh.** 
+* GeekBench 5 Score for Windows.
+![GB5W](https://i.ibb.co/RQLd12v/Acidanthera-Mac-Book-Pro15-1-Geekbench-Browser.png)
+* GeekBench 5 Score for Hackintosh.
+![GB5M](https://i.ibb.co/XxWM2zs/Mac-Book-Pro15-1-Geekbench-Browser.png)
+* OpenCL Score for Windows.
+![OCW](https://i.ibb.co/GcjCcqK/LENOVO-81-FV-Geekbench-Browser.png)
+* OpenCL Score for Hackintosh.
+![OCM](https://i.ibb.co/hmkXsvz/Mac-Book-Pro15-1-Geekbench-Browser-1.png)
