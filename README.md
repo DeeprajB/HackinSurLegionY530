@@ -121,3 +121,12 @@ Lets start with the System Configuration.
 ![OCW](https://i.ibb.co/GcjCcqK/LENOVO-81-FV-Geekbench-Browser.png)
 * OpenCL Score for Hackintosh.
 ![OCM](https://i.ibb.co/hmkXsvz/Mac-Book-Pro15-1-Geekbench-Browser-1.png)
+
+## **Credits** 
+* ### **[chilledHamza](https://github.com/chilledHamza)**
+* ### **[Acidanthera](https://github.com/acidanthera)**
+* ### **[VoodooI2C](https://github.com/VoodooI2C)**
+* ### **[Mieze](https://github.com/Mieze)**
+* ### **[RehabMan](https://github.com/RehabMan)**
+* ### **[xiaoM](https://github.com/xiaoMGitHub)**
+* ### **[YusTech Gaming](https://www.youtube.com/channel/UCNP64VXP3eXBcBZqAtOU_nA)**
