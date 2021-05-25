@@ -70,7 +70,7 @@ Lets start with the System Configuration.
 3. **Booting into the USB (Catalina)and Installing macOS Catalina**  
 **Note** :
 
-* * _[Click here](https://www.youtube.com/watch?v=QgR28BOjPmU&t=247s) to check out a video by **YusTech Gaming** on installing **Catalina** if you get confused._
+* * _[Click here](https://youtu.be/QgR28BOjPmU) to check out a video by **YusTech Gaming** on installing **Catalina** if you get confused._
 * Shut down the laptop, press the power button and press `F12` to go into the Boot Menu.
 * In the Boot Menu select the USB EFI.
 * If the USB is succesful in booting up an recovery screen will appear. 
@@ -124,9 +124,11 @@ Lets start with the System Configuration.
 
 ## **Credits** 
 * ### **[chilledHamza](https://github.com/chilledHamza)**
+* ### **[Dortania](https://dortania.github.io/OpenCore-Install-Guide/)**
 * ### **[Acidanthera](https://github.com/acidanthera)**
 * ### **[VoodooI2C](https://github.com/VoodooI2C)**
 * ### **[Mieze](https://github.com/Mieze)**
 * ### **[RehabMan](https://github.com/RehabMan)**
 * ### **[xiaoM](https://github.com/xiaoMGitHub)**
 * ### **[YusTech Gaming](https://www.youtube.com/channel/UCNP64VXP3eXBcBZqAtOU_nA)**
+
